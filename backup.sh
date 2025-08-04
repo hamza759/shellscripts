@@ -2,6 +2,7 @@
 
 <<info
 this shell ecripts will take periodic backups
+can also be used with cron
 while excuting this file ./bakcup.sh /home/ubuntu/scripts /home/ubuntu/backups
 info
 
