@@ -1,2 +1,1 @@
 this is the file from dev txt - i am in dev branch
-let say here i did some wrong code because of which bugs is coming but after i commit this changes ""i can revert back""
